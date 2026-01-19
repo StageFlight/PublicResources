@@ -1,6 +1,6 @@
 {
     "messages": {
-        "pre": "Welcome Creatures! The party will start",
+        "pre": "Welcome back! The replay will start",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for swooping by! \nFly safe!",
         "logo": false,
@@ -13,14 +13,14 @@
     },
     "displayActive": [
         {
-            "start": 1761397673,
-            "finish": 1761445800
+            "start": 1768849825,
+            "finish": 1769326800
         }
     ],
     "performers": [
         {
             "name": "DJ Goofy",
-            "startTime": 1761415200,
+            "startTime": 1769263200,
             "setLength": 60,
             "logoId": 0,
             "genre": "LIVE! - Open House",
@@ -30,7 +30,7 @@
         },
         {
             "name": "nullreff",
-            "startTime": 1761418800,
+            "startTime": 1769266800,
             "setLength": 60,
             "logoId": 1,
             "genre": "Thunder",
@@ -40,7 +40,7 @@
         },
         {
             "name": "b2b: JohCaw, Valant & KA!JU",
-            "startTime": 1761422400,
+            "startTime": 1769270400,
             "setLength": 60,
             "logoId": -1,
             "genre": "Not Garage, DnB, Trap or Dubstep",
@@ -52,18 +52,18 @@
             "lomgOffset": 0
         },
         {
-            "name": "???",
-            "startTime": 1761426000,
+            "name": "CAWSTIC",
+            "startTime": 1769274000,
             "setLength": 60,
             "logoId": 2,
-            "genre": "???",
+            "genre": "Dark Bass",
             "VJ": "",
             "LD": "",
             "FX": ""
         },
         {
             "name": "ARP3GGI/O",
-            "startTime": 1761429600,
+            "startTime": 1769277600,
             "setLength": 60,
             "logoId": 3,
             "genre": "Drum and Bass",
@@ -73,7 +73,7 @@
         },
         {
             "name": "b2b: Dax & Hobnoxus",
-            "startTime": 1761433200,
+            "startTime": 1769281200,
             "setLength": 60,
             "logoId": -1,
             "genre": "Neurofunk",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Kima",
-            "startTime": 1761436800,
+            "startTime": 1769284800,
             "setLength": 60,
             "logoId": 4,
             "genre": "Trance",
@@ -96,7 +96,7 @@
         },
         {
             "name": "2N",
-            "startTime": 1761440400,
+            "startTime": 1769288400,
             "setLength": 60,
             "logoId": 5,
             "genre": "Genre-fluid",
@@ -106,7 +106,7 @@
         },
         {
             "name": "Windworks",
-            "startTime": 1761444000,
+            "startTime": 1769288400,
             "setLength": 20,
             "logoId": 6,
             "genre": "Fireworks & Drone Show",
@@ -115,11 +115,11 @@
             "FX": "Happyrobot33, Rowan, Talos & ValueFactory"
         },
         {
-            "name": "Close",
-            "startTime": 1761445200,
-            "setLength": 10,
+            "name": "Intermission",
+            "startTime": 1769293200,
+            "setLength": 40,
             "logoId": 7,
-            "genre": "",
+            "genre": "Take a break, then we start again!",
             "VJ": "",
             "LD": "",
             "FX": ""
