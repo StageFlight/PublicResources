@@ -42,14 +42,11 @@
             "name": "Zardon",
             "startTime": 1771122420,
             "setLength": 10,
-            "logoId": -1,
+            "logoId": 2,
             "genre": "Bass Music",
             "VJ": "Thistle",
             "LD": "Kat Food",
-            "FX": "",
-            "lomgDJs": 2,
-            "lomgSpeed": 0.3,
-            "lomgOffset": 6
+            "FX": ""
         },
         {
             "name": "Draven",
