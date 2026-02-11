@@ -9,7 +9,7 @@
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
         "tagline": "One Night, Thirty DJs",
-        "logoCacheVersion": 3
+        "logoCacheVersion": 2
     },
     "displayActive": [
         {
@@ -19,84 +19,81 @@
     ],
     "performers": [
         {
-            "name": "Subverja",
-            "startTime": 1771116000,
-            "setLength": 8,
+            "name": "DJ jayceebeats",
+            "startTime": 1771111560,
+            "setLength": 10,
             "logoId": 0,
+            "genre": "Rawstyle and rawtempo",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Sundra",
+            "startTime": 1771112160,
+            "setLength": 10,
+            "logoId": 1,
+            "genre": "Hardstyle",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "DJ Big Name",
+            "startTime": 1771112760,
+            "setLength": 20,
+            "logoId": 2,
+            "genre": "Techno and Hardstyle",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Skally Lad",
+            "startTime": 1771113360,
+            "setLength": 13,
+            "logoId": 3,
             "genre": "Techno",
             "VJ": "BeamFlare",
             "LD": "Kat Food",
             "FX": ""
         },
         {
-            "name": "Tsop",
-            "startTime": 1771116480,
-            "setLength": 10,
-            "logoId": 1,
-            "genre": "Hardstyle & Hard Dance",
-            "VJ": "Pammematth",
-            "LD": "Kat Food",
-            "FX": ""
-        },
-        {
-            "name": "b3b: Goggles, Goggs & Grimm Stone",
-            "startTime": 1771117080,
-            "setLength": 30,
-            "logoId": -1,
-            "genre": "Mainstage & Mashups, Nu Disco & Big room, and Electro Swing",
-            "VJ": "Thistle",
-            "LD": "Kat Food",
-            "FX": "",
-            "lomgDJs": 2,
-            "lomgSpeed": 0.3,
-            "lomgOffset": 6
-        },
-        {
-            "name": "Gannen",
-            "startTime": 1771118880,
-            "setLength": 10,
-            "logoId": 3,
-            "genre": "Funky House",
-            "VJ": "Orca",
-            "LD": "Kat Food",
-            "FX": ""
-        },
-        {
-            "name": "DJ - Spark",
-            "startTime": 1771119420,
-            "setLength": 9,
+            "name": "BeamFlare",
+            "startTime": 1771114140,
+            "setLength": 12,
             "logoId": 4,
-            "genre": "House",
-            "VJ": "Orca",
+            "genre": "Progressive & Uplifting Trance",
+            "VJ": "BeamFlare",
             "LD": "Kat Food",
             "FX": ""
         },
         {
-            "name": "John MCbadass",
-            "startTime": 1771119960,
+            "name": "Hyperion",
+            "startTime": 1771114800,
             "setLength": 10,
             "logoId": 5,
-            "genre": "House",
-            "VJ": "Orca",
+            "genre": "Trance",
+            "VJ": "BeamFlare",
             "LD": "Kat Food",
             "FX": ""
         },
         {
-            "name": "Whitty",
-            "startTime": 1771120620,
+            "name": "1/2 Bit",
+            "startTime": 1771115400,
             "setLength": 10,
             "logoId": 6,
-            "genre": "Melodic Bass",
-            "VJ": "Orca",
-            "LD": "Kat Food",
+            "genre": "Neotrance",
+            "VJ": "BeamFlare",
+            "LD": "Milo (Creature)",
             "FX": ""
         },
         {
             "name": "More to Come!",
-            "startTime": 1771121160,
+            "startTime": 1771116000,
             "setLength": 10,
             "logoId": 7,
-            "genre": "A few more to go! Shawn :3 is up next...",
+            "genre": "Halfway there and Subverja is up next...",
             "VJ": "",
             "LD": "",
             "FX": ""
