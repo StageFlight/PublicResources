@@ -1,0 +1,85 @@
+{
+    "messages": {
+        "pre": "Get ready, the event begins",
+        "inter": "This message is displayed between active days, if we ran on multiple days.",
+        "post": "Thank you and see you again!",
+        "logo": true,
+        "hasLomg": true,
+        "lomgTileSize": "0.3333",
+        "lomgLogosPerRow": 3,
+        "title": "DJ SCHEDULE",
+        "tagline": "One Night, Thirty DJs",
+        "logoCacheVersion": 3
+    },
+    "displayActive": [
+        {
+            "start": 1770847254,
+            "finish": 1771124400
+        }
+    ],
+    "performers": [
+        {
+            "name": "Shawn :3",
+            "startTime": 1771121160,
+            "setLength": 10,
+            "logoId": 0,
+            "genre": "Drum and Bass",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "ColeFox",
+            "startTime": 1771121820,
+            "setLength": 11,
+            "logoId": 1,
+            "genre": "Drum and Bass",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Zardon",
+            "startTime": 1771122420,
+            "setLength": 10,
+            "logoId": -1,
+            "genre": "Bass Music",
+            "VJ": "Thistle",
+            "LD": "Kat Food",
+            "FX": "",
+            "lomgDJs": 2,
+            "lomgSpeed": 0.3,
+            "lomgOffset": 6
+        },
+        {
+            "name": "Draven",
+            "startTime": 1771123020,
+            "setLength": 8,
+            "logoId": 3,
+            "genre": "Neurofunk",
+            "VJ": "Thistle",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Jere",
+            "startTime": 1771123500,
+            "setLength": 10,
+            "logoId": 4,
+            "genre": "Trance & Techno",
+            "VJ": "Thistle",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Close",
+            "startTime": 1771124100,
+            "setLength": 5,
+            "logoId": 7,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        }
+    ]
+}
