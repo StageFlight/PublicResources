@@ -47,7 +47,7 @@
             "VJ": "Pammematth",
             "LD": "Shambler",
             "FX": "",
-            "lomgDJs": 2,
+            "lomgDJs": 1,
             "lomgSpeed": 0.2,
             "lomgOffset": 0
         },
@@ -70,9 +70,9 @@
             "VJ": "Pammematth",
             "LD": "Kat Food",
             "FX": "",
-            "lomgDJs": 2,
+            "lomgDJs": 1,
             "lomgSpeed": 0.2,
-            "lomgOffset": 2
+            "lomgOffset": 3
         },
         {
             "name": "DJ Acronix",
