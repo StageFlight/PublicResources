@@ -9,7 +9,7 @@
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
         "tagline": "One Night, Thirty DJs",
-        "logoCacheVersion": 3
+        "logoCacheVersion": 4
     },
     "displayActive": [
         {
@@ -19,31 +19,31 @@
     ],
     "performers": [
         {
-            "name": "Subverja",
-            "startTime": 1771116000,
-            "setLength": 8,
-            "logoId": 0,
-            "genre": "Techno",
-            "VJ": "BeamFlare",
-            "LD": "Kat Food",
-            "FX": ""
-        },
-        {
-            "name": "Tsop",
-            "startTime": 1771116480,
+            "name": "Shawn :3",
+            "startTime": 1771121160,
             "setLength": 10,
-            "logoId": 1,
-            "genre": "Hardstyle & Hard Dance",
-            "VJ": "Pammematth",
+            "logoId": 0,
+            "genre": "Drum and Bass",
+            "VJ": "Orca",
             "LD": "Kat Food",
             "FX": ""
         },
         {
-            "name": "b3b: Goggles, Goggs & Grimm Stone",
-            "startTime": 1771117080,
-            "setLength": 30,
+            "name": "ColeFox",
+            "startTime": 1771121820,
+            "setLength": 11,
+            "logoId": 1,
+            "genre": "Drum and Bass",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Zardon",
+            "startTime": 1771122420,
+            "setLength": 10,
             "logoId": -1,
-            "genre": "Mainstage & Mashups, Nu Disco & Big room, and Electro Swing",
+            "genre": "Bass Music",
             "VJ": "Thistle",
             "LD": "Kat Food",
             "FX": "",
@@ -52,51 +52,31 @@
             "lomgOffset": 6
         },
         {
-            "name": "Gannen",
-            "startTime": 1771118880,
-            "setLength": 10,
+            "name": "Draven",
+            "startTime": 1771123020,
+            "setLength": 8,
             "logoId": 3,
-            "genre": "Funky House",
-            "VJ": "Orca",
+            "genre": "Neurofunk",
+            "VJ": "Thistle",
             "LD": "Kat Food",
             "FX": ""
         },
         {
-            "name": "DJ - Spark",
-            "startTime": 1771119420,
-            "setLength": 9,
+            "name": "Jere",
+            "startTime": 1771123500,
+            "setLength": 10,
             "logoId": 4,
-            "genre": "House",
-            "VJ": "Orca",
+            "genre": "Trance & Techno",
+            "VJ": "Thistle",
             "LD": "Kat Food",
             "FX": ""
         },
         {
-            "name": "John MCbadass",
-            "startTime": 1771119960,
-            "setLength": 10,
-            "logoId": 5,
-            "genre": "House",
-            "VJ": "Orca",
-            "LD": "Kat Food",
-            "FX": ""
-        },
-        {
-            "name": "Whitty",
-            "startTime": 1771120620,
-            "setLength": 10,
-            "logoId": 6,
-            "genre": "Melodic Bass",
-            "VJ": "Orca",
-            "LD": "Kat Food",
-            "FX": ""
-        },
-        {
-            "name": "More to Come!",
-            "startTime": 1771121160,
-            "setLength": 10,
+            "name": "Close",
+            "startTime": 1771124100,
+            "setLength": 5,
             "logoId": 7,
-            "genre": "A few more to go! Shawn :3 is up next...",
+            "genre": "",
             "VJ": "",
             "LD": "",
             "FX": ""
