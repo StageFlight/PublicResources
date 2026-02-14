@@ -1,0 +1,108 @@
+{
+    "messages": {
+        "pre": "Get ready, the event begins",
+        "inter": "This message is displayed between active days, if we ran on multiple days.",
+        "post": "Thank you and see you again!",
+        "logo": true,
+        "hasLomg": true,
+        "lomgTileSize": "0.3333",
+        "lomgLogosPerRow": 3,
+        "title": "DJ SCHEDULE",
+        "tagline": "One Night, Thirty DJs",
+        "logoCacheVersion": 1
+    },
+    "displayActive": [
+        {
+            "start": 1771106100,
+            "finish": 1771124400
+        }
+    ],
+    "performers": [
+        {
+            "name": "P I N K",
+            "startTime": 1771106400,
+            "setLength": 10,
+            "logoId": 0,
+            "genre": "Drum and Bass",
+            "VJ": "Pammematth",
+            "LD": "Shambler",
+            "FX": ""
+        },
+        {
+            "name": "Pandapropaganda",
+            "startTime": 1771107000,
+            "setLength": 10,
+            "logoId": 1,
+            "genre": "Drum and Bass, and Bass House",
+            "VJ": "Pammematth",
+            "LD": "Shambler",
+            "FX": ""
+        },
+        {
+            "name": "b2b: DJ Arka & Vapor",
+            "startTime": 1771107600,
+            "setLength": 20,
+            "logoId": -1,
+            "genre": "Colo(u)r Bass and Dubstep",
+            "VJ": "Pammematth",
+            "LD": "Shambler",
+            "FX": "",
+            "lomgDJs": 1,
+            "lomgSpeed": 0.2,
+            "lomgOffset": 0
+        },
+        {
+            "name": "Boop loops",
+            "startTime": 1771108800,
+            "setLength": 9,
+            "logoId": 3,
+            "genre": "Drum and Bass",
+            "VJ": "Pammematth",
+            "LD": "Shambler",
+            "FX": ""
+        },
+        {
+            "name": "b2b: Dao & grrimm",
+            "startTime": 1771109340,
+            "setLength": 19,
+            "logoId": -1,
+            "genre": "Riddim",
+            "VJ": "Pammematth",
+            "LD": "Kat Food",
+            "FX": "",
+            "lomgDJs": 1,
+            "lomgSpeed": 0.2,
+            "lomgOffset": 3
+        },
+        {
+            "name": "DJ Acronix",
+            "startTime": 1771110420,
+            "setLength": 9,
+            "logoId": 5,
+            "genre": "Multi-genre / Open Format",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Dutch",
+            "startTime": 1771110960,
+            "setLength": 10,
+            "logoId": 6,
+            "genre": "Hardstyle",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "More to Come!",
+            "startTime": 1771111560,
+            "setLength": 10,
+            "logoId": 7,
+            "genre": "21 more still to go! DJ jayceebeats is up next...",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        }
+    ]
+}

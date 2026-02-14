@@ -9,7 +9,7 @@
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
         "tagline": "One Night, Thirty DJs",
-        "logoCacheVersion": 1
+        "logoCacheVersion": 2
     },
     "displayActive": [
         {
@@ -19,87 +19,81 @@
     ],
     "performers": [
         {
-            "name": "P I N K",
-            "startTime": 1771106400,
+            "name": "DJ jayceebeats",
+            "startTime": 1771111560,
             "setLength": 10,
             "logoId": 0,
-            "genre": "Drum and Bass",
-            "VJ": "Pammematth",
-            "LD": "Shambler",
-            "FX": ""
-        },
-        {
-            "name": "Pandapropaganda",
-            "startTime": 1771107000,
-            "setLength": 10,
-            "logoId": 1,
-            "genre": "Drum and Bass, and Bass House",
-            "VJ": "Pammematth",
-            "LD": "Shambler",
-            "FX": ""
-        },
-        {
-            "name": "b2b: DJ Arka & Vapor",
-            "startTime": 1771107600,
-            "setLength": 20,
-            "logoId": -1,
-            "genre": "Colo(u)r Bass and Dubstep",
-            "VJ": "Pammematth",
-            "LD": "Shambler",
-            "FX": "",
-            "lomgDJs": 1,
-            "lomgSpeed": 0.2,
-            "lomgOffset": 0
-        },
-        {
-            "name": "Boop loops",
-            "startTime": 1771108800,
-            "setLength": 9,
-            "logoId": 3,
-            "genre": "Drum and Bass",
-            "VJ": "Pammematth",
-            "LD": "Shambler",
-            "FX": ""
-        },
-        {
-            "name": "b2b: Dao & grrimm",
-            "startTime": 1771109340,
-            "setLength": 19,
-            "logoId": -1,
-            "genre": "Riddim",
-            "VJ": "Pammematth",
-            "LD": "Kat Food",
-            "FX": "",
-            "lomgDJs": 1,
-            "lomgSpeed": 0.2,
-            "lomgOffset": 3
-        },
-        {
-            "name": "DJ Acronix",
-            "startTime": 1771110420,
-            "setLength": 9,
-            "logoId": 5,
-            "genre": "Multi-genre / Open Format",
+            "genre": "Rawstyle and rawtempo",
             "VJ": "Orca",
             "LD": "Kat Food",
             "FX": ""
         },
         {
-            "name": "Dutch",
-            "startTime": 1771110960,
+            "name": "Sundra",
+            "startTime": 1771112160,
             "setLength": 10,
-            "logoId": 6,
+            "logoId": 1,
             "genre": "Hardstyle",
             "VJ": "Orca",
             "LD": "Kat Food",
             "FX": ""
         },
         {
+            "name": "DJ Big Name",
+            "startTime": 1771112760,
+            "setLength": 20,
+            "logoId": 2,
+            "genre": "Techno and Hardstyle",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Skally Lad",
+            "startTime": 1771113360,
+            "setLength": 13,
+            "logoId": 3,
+            "genre": "Techno",
+            "VJ": "BeamFlare",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "BeamFlare",
+            "startTime": 1771114140,
+            "setLength": 12,
+            "logoId": 4,
+            "genre": "Progressive & Uplifting Trance",
+            "VJ": "BeamFlare",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Hyperion",
+            "startTime": 1771114800,
+            "setLength": 10,
+            "logoId": 5,
+            "genre": "Trance",
+            "VJ": "BeamFlare",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "1/2 Bit",
+            "startTime": 1771115400,
+            "setLength": 10,
+            "logoId": 6,
+            "genre": "Neotrance",
+            "VJ": "BeamFlare",
+            "LD": "Milo (Creature)",
+            "FX": ""
+        },
+        {
             "name": "More to Come!",
-            "startTime": 1771111560,
+            "startTime": 1771116000,
             "setLength": 10,
             "logoId": 7,
-            "genre": "21 more still to go! DJ jayceebeats is up next...",
+            "genre": "Halfway there and Subverja is up next...",
             "VJ": "",
             "LD": "",
             "FX": ""
