@@ -1,0 +1,105 @@
+{
+    "messages": {
+        "pre": "Get ready, the event begins",
+        "inter": "This message is displayed between active days, if we ran on multiple days.",
+        "post": "Thank you and see you again!",
+        "logo": true,
+        "hasLomg": true,
+        "lomgTileSize": "0.3333",
+        "lomgLogosPerRow": 3,
+        "title": "DJ SCHEDULE",
+        "tagline": "One Night, Thirty DJs",
+        "logoCacheVersion": 3
+    },
+    "displayActive": [
+        {
+            "start": 1771106100,
+            "finish": 1771124400
+        }
+    ],
+    "performers": [
+        {
+            "name": "Subverja",
+            "startTime": 1771116000,
+            "setLength": 8,
+            "logoId": 0,
+            "genre": "Techno",
+            "VJ": "BeamFlare",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Tsop",
+            "startTime": 1771116480,
+            "setLength": 10,
+            "logoId": 1,
+            "genre": "Hardstyle & Hard Dance",
+            "VJ": "Pammematth",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "b3b: Goggles, Goggs & Grimm Stone",
+            "startTime": 1771117080,
+            "setLength": 30,
+            "logoId": -1,
+            "genre": "Mainstage & Mashups, Nu Disco & Big room, and Electro Swing",
+            "VJ": "Thistle",
+            "LD": "Kat Food",
+            "FX": "",
+            "lomgDJs": 2,
+            "lomgSpeed": 0.3,
+            "lomgOffset": 6
+        },
+        {
+            "name": "Gannen",
+            "startTime": 1771118880,
+            "setLength": 10,
+            "logoId": 3,
+            "genre": "Funky House",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "DJ - Spark",
+            "startTime": 1771119420,
+            "setLength": 9,
+            "logoId": 4,
+            "genre": "House",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "John MCbadass",
+            "startTime": 1771119960,
+            "setLength": 10,
+            "logoId": 5,
+            "genre": "House",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "Whitty",
+            "startTime": 1771120620,
+            "setLength": 10,
+            "logoId": 6,
+            "genre": "Melodic Bass",
+            "VJ": "Orca",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "More to Come!",
+            "startTime": 1771121160,
+            "setLength": 10,
+            "logoId": 7,
+            "genre": "A few more to go! Shawn :3 is up next...",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        }
+    ]
+}
