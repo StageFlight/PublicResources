@@ -1,7 +1,7 @@
 {
     "messages": {
         "pre": "Get ready, the event begins",
-        "inter": "This message is displayed between active days, if we ran on multiple days.",
+        "inter": "N/A",
         "post": "Fly safe!",
         "logo": false,
         "hasLomg": false,
