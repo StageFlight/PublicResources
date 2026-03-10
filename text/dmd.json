@@ -1,76 +1,92 @@
 {
     "messages": {
-        "pre": "Get ready, the event begins",
+        "pre": "Stage Flight π begins",
         "inter": "N/A",
-        "post": "Fly safe!",
+        "post": "Thank you for visiting! \nFly safe!",
         "logo": false,
-        "hasLomg": false,
+        "hasLomg": true,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
-        "tagline": "One Night, Thirty DJs",
-        "logoCacheVersion": 4
+        "tagline": "DANCE TOGETHER, FLY TOGETHER",
+        "logoCacheVersion": 1
     },
     "displayActive": [
         {
-            "start": 1771106100,
-            "finish": 1771124400
+            "start": 1773514500,
+            "finish": 1773536700
         }
     ],
     "performers": [
         {
-            "name": "Shawn :3",
-            "startTime": 1771121160,
-            "setLength": 10,
+            "name": "Avian Invasion",
+            "startTime": 1773514800,
+            "setLength": 60,
             "logoId": 0,
-            "genre": "Drum and Bass",
-            "VJ": "Orca",
-            "LD": "Kat Food",
+            "genre": "Progressive [bird] House",
+            "VJ": "Avian Invasion",
+            "LD": "Kuropper",
             "FX": ""
         },
         {
-            "name": "ColeFox",
-            "startTime": 1771121820,
-            "setLength": 11,
+            "name": "b2b: pulse! & StarLazer",
+            "startTime": 1773518400,
+            "setLength": 60,
+            "logoId": -1,
+            "genre": "Bass House, Complextro & Glitch Hop",
+            "VJ": "Pammematth",
+            "LD": "Kuropper",
+            "FX": "",
+            "lomgDJs": 2,
+            "lomgSpeed": 0.2,
+            "lomgOffset": 0
+        },
+        {
+            "name": "HydroVoid - b2b: Sundra & Veroxyde",
+            "startTime": 1773522000,
+            "setLength": 60,
+            "logoId": -1,
+            "genre": "Hardstyle",
+            "VJ": "Copperlily",
+            "LD": "Raeschen",
+            "FX": "Sierrlen",
+            "lomgDJs": 2,
+            "lomgSpeed": 0.2,
+            "lomgOffset": 6
+        },
+        {
+            "name": "Moonglow",
+            "startTime": 1773525600,
+            "setLength": 60,
             "logoId": 1,
-            "genre": "Drum and Bass",
-            "VJ": "Orca",
-            "LD": "Kat Food",
+            "genre": "Atmospheric & Moonglow",
+            "VJ": "Bino & ....?",
+            "LD": "Talos & ....?",
             "FX": ""
         },
         {
-            "name": "Zardon",
-            "startTime": 1771122420,
-            "setLength": 10,
+            "name": "Ashtalon",
+            "startTime": 1773529200,
+            "setLength": 60,
             "logoId": 2,
-            "genre": "Bass Music",
-            "VJ": "Thistle",
+            "genre": "Colour Bass",
+            "VJ": "Pammematth",
             "LD": "Kat Food",
-            "FX": ""
+            "FX": "Windyote with Happyrobot, Marty and Rowan"
         },
         {
-            "name": "Draven",
-            "startTime": 1771123020,
-            "setLength": 8,
+            "name": "Strawberry Protato",
+            "startTime": 1773532800,
+            "setLength": 60,
             "logoId": 3,
-            "genre": "Colorbass",
-            "VJ": "Thistle",
-            "LD": "Kat Food",
-            "FX": ""
-        },
-        {
-            "name": "Jere",
-            "startTime": 1771123500,
-            "setLength": 10,
-            "logoId": 4,
-            "genre": "Trance & Techno",
-            "VJ": "Thistle",
-            "LD": "Kat Food",
+            "genre": "Psychedelic Bass Vibes",
+            "VJ": "Strawberry Protato",
+            "LD": "Micca",
             "FX": ""
         },
         {
             "name": "Close",
-            "startTime": 1771124100,
+            "startTime": 1773536400,
             "setLength": 5,
             "logoId": 7,
             "genre": "",

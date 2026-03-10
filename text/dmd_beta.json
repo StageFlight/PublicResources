@@ -24,8 +24,8 @@
             "setLength": 60,
             "logoId": 0,
             "genre": "Progressive [bird] House",
-            "VJ": "",
-            "LD": "Goofy & Kuropper",
+            "VJ": "Avian Invasion",
+            "LD": "Kuropper",
             "FX": ""
         },
         {
@@ -47,9 +47,9 @@
             "setLength": 60,
             "logoId": -1,
             "genre": "Hardstyle",
-            "VJ": "Kuropper",
-            "LD": "Shambler",
-            "FX": "",
+            "VJ": "Copperlily",
+            "LD": "Raeschen",
+            "FX": "Sierrlen",
             "lomgDJs": 2,
             "lomgSpeed": 0.2,
             "lomgOffset": 6
