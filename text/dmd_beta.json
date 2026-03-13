@@ -47,9 +47,9 @@
             "setLength": 60,
             "logoId": -1,
             "genre": "Hardstyle",
-            "VJ": "Copperlily",
+            "VJ": "Sundra, Copperlily & Sierrlen",
             "LD": "Raeschen",
-            "FX": "Sierrlen",
+            "FX": "",
             "lomgDJs": 2,
             "lomgSpeed": 0.2,
             "lomgOffset": 6
@@ -60,9 +60,9 @@
             "setLength": 60,
             "logoId": 1,
             "genre": "Atmospheric & Moonglow",
-            "VJ": "Bino & ....?",
-            "LD": "Talos & ....?",
-            "FX": ""
+            "VJ": "Frosty, Gab, Johari, Micca & ValueFactory",
+            "LD": "BoxerFox, Micca & Talos",
+            "FX": "Happyrobot, nullreff, Raeschen & Windyote"
         },
         {
             "name": "Ashtalon",
@@ -72,7 +72,7 @@
             "genre": "Colour Bass",
             "VJ": "Pammematth",
             "LD": "Kat Food",
-            "FX": "Windyote with Happyrobot, Marty and Rowan"
+            "FX": "Windyote & Happyrobot"
         },
         {
             "name": "Strawberry Protato",
@@ -82,7 +82,7 @@
             "genre": "Psychedelic Bass Vibes",
             "VJ": "Strawberry Protato",
             "LD": "Micca",
-            "FX": ""
+            "FX": "Micca & Rowan"
         },
         {
             "name": "Close",
