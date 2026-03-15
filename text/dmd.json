@@ -2,9 +2,9 @@
     "messages": {
         "pre": "Stage Flight π begins",
         "inter": "N/A",
-        "post": "Thank you for visiting! \nFly safe!",
+        "post": "Thank you for visiting! Fly safe!",
         "logo": false,
-        "hasLomg": true,
+        "hasLomg": false,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
