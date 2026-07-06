@@ -1,94 +1,88 @@
 {
     "messages": {
-        "pre": "Stage Flight π begins",
+        "pre": "Welcome! i.W.A.I.T 4. T.H.I.S begins",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for visiting! \nFly safe!",
-        "logo": false,
-        "hasLomg": true,
+        "logo": true,
+        "hasLomg": false,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
-        "title": "DJ SCHEDULE",
-        "tagline": "DANCE TOGETHER, FLY TOGETHER",
+        "title": "PERFORMER SCHEDULE",
+        "tagline": "4. T.H.I.S.",
         "logoCacheVersion": 1
     },
     "displayActive": [
         {
-            "start": 1772662437,
-            "finish": 1773536700
+            "start": 1783799400,
+            "finish": 1783821780
         }
     ],
     "performers": [
         {
-            "name": "Avian Invasion",
-            "startTime": 1773514800,
+            "name": "KitKatSingsMeow",
+            "startTime": 1783800000,
             "setLength": 60,
             "logoId": 0,
-            "genre": "Progressive [bird] House",
-            "VJ": "Avian Invasion",
-            "LD": "Kuropper",
+            "genre": "",
+            "VJ": "",
+            "LD": "",
             "FX": ""
         },
         {
-            "name": "b2b: pulse! & StarLazer",
-            "startTime": 1773518400,
-            "setLength": 60,
-            "logoId": -1,
-            "genre": "Bass House, Complextro & Glitch Hop",
-            "VJ": "Pammematth",
-            "LD": "Kuropper",
-            "FX": "",
-            "lomgDJs": 2,
-            "lomgSpeed": 0.2,
-            "lomgOffset": 0
-        },
-        {
-            "name": "HydroVoid - b2b: Sundra & Veroxyde",
-            "startTime": 1773522000,
-            "setLength": 60,
-            "logoId": -1,
-            "genre": "Hardstyle",
-            "VJ": "Copperlily, Sierrlen & Sundra",
-            "LD": "Raeschen",
-            "FX": "",
-            "lomgDJs": 2,
-            "lomgSpeed": 0.2,
-            "lomgOffset": 6
-        },
-        {
-            "name": "Moonglow",
-            "startTime": 1773525600,
+            "name": "PsychoticFox",
+            "startTime": 1783803600,
             "setLength": 60,
             "logoId": 1,
-            "genre": "Atmospheric & Moonglow",
-            "VJ": "Frosty, Gab, Johari, Micca & ValueFactory",
-            "LD": "BoxerFox, Micca & Talos",
-            "FX": "Happyrobot, nullreff, Raeschen & Windyote"
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
         },
         {
-            "name": "Ashtalon",
-            "startTime": 1773529200,
+            "name": "Cami-Cat",
+            "startTime": 1783807200,
             "setLength": 60,
             "logoId": 2,
-            "genre": "Colour Bass",
-            "VJ": "Pammematth",
-            "LD": "Kat Food",
-            "FX": "Windyote & Happyrobot"
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
         },
         {
-            "name": "Strawberry Protato",
-            "startTime": 1773532800,
+            "name": "The Misfit Queen",
+            "startTime": 1783810800,
             "setLength": 60,
             "logoId": 3,
-            "genre": "Psychedelic Bass Vibes",
-            "VJ": "Strawberry Protato",
-            "LD": "Micca",
-            "FX": "Micca & Rowan"
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "Studi01",
+            "startTime": 1783814400,
+            "setLength": 60,
+            "logoId": 4,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
+        },
+        {
+            "name": "WhenSnakesSing",
+            "startTime": 1783818000,
+            "setLength": 60,
+            "logoId": 5,
+            "genre": "",
+            "VJ": "",
+            "LD": "",
+            "FX": ""
         },
         {
             "name": "Close",
-            "startTime": 1773536400,
+            "startTime": 1783821600,
             "setLength": 5,
-            "logoId": 7,
+            "logoId": 6,
             "genre": "",
             "VJ": "",
             "LD": "",
