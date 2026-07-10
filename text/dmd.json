@@ -1,8 +1,8 @@
 {
     "messages": {
-        "pre": "Welcome! i.W.A.I.T 4. T.H.I.S begins",
+        "pre": "Welcome!\ni.W.A.I.T 4. T.H.I.S begins",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Thank you for visiting! \nFly safe!",
+        "post": "Thank you for visiting!\nFly safe!",
         "logo": true,
         "hasLomg": false,
         "lomgTileSize": "0.3333",
