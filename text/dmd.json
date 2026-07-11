@@ -61,8 +61,18 @@
         {
             "name": "Studi01",
             "startTime": 1783814400,
-            "setLength": 60,
+            "setLength": 30,
             "logoId": 4,
+            "genre": "",
+            "VJ": "",
+            "LD": "Kat Food",
+            "FX": ""
+        },
+        {
+            "name": "WarneD1",
+            "startTime": 1783816200,
+            "setLength": 30,
+            "logoId": 7,
             "genre": "",
             "VJ": "",
             "LD": "Kat Food",
