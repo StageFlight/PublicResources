@@ -3,12 +3,12 @@
         "pre": "Welcome!\ni.W.A.I.T 4. T.H.I.S begins",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thank you for visiting!\nFly safe!",
-        "logo": true,
+        "logo": false,
         "hasLomg": false,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
         "title": "PERFORMER SCHEDULE",
-        "tagline": "4. T.H.I.S.",
+        "tagline": "DANCE TOGETHER, FLY TOGETHER",
         "logoCacheVersion": 2
     },
     "displayActive": [
