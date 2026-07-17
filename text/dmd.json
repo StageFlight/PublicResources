@@ -1,98 +1,98 @@
 {
     "messages": {
-        "pre": "Welcome!\ni.W.A.I.T 4. T.H.I.S begins",
+        "pre": "Join us, to celebrate July Birthdays! \nHosted by Treble Sketch. The event begins",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Thank you for visiting!\nFly safe!",
-        "logo": false,
+        "post": "Thanks for celebrating with us!\nFly safe!",
+        "logo": true,
         "hasLomg": false,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
-        "title": "PERFORMER SCHEDULE",
-        "tagline": "DANCE TOGETHER, FLY TOGETHER",
-        "logoCacheVersion": 2
+        "title": "DJ SCHEDULE",
+        "tagline": "July Birthday Bash!",
+        "logoCacheVersion": 1
     },
     "displayActive": [
         {
-            "start": 1783799400,
-            "finish": 1783821780
+            "start": 1784418600,
+            "finish": 1784431800
         }
     ],
     "performers": [
         {
-            "name": "KitKatSingsMeow",
-            "startTime": 1783800000,
-            "setLength": 60,
+            "name": "ElectronFlow",
+            "startTime": 1784419200,
+            "setLength": 30,
             "logoId": 0,
-            "genre": "",
-            "VJ": "",
-            "LD": "Kat Food",
-            "FX": ""
+            "genre": "Organic House",
+            "VJ": "ElectronFlow",
+            "LD": "KintsugiTiger",
+            "FX": "KintsugiTiger"
         },
         {
-            "name": "PsychoticFox",
-            "startTime": 1783803600,
-            "setLength": 60,
+            "name": "ThyCorgiKing",
+            "startTime": 1784421000,
+            "setLength": 30,
             "logoId": 1,
-            "genre": "",
-            "VJ": "",
-            "LD": "Kat Food",
-            "FX": ""
+            "genre": "Dancefloor DnB",
+            "VJ": "Pammematth",
+            "LD": "Velocity",
+            "FX": "Velocity"
         },
         {
-            "name": "Cami-Cat",
-            "startTime": 1783807200,
-            "setLength": 60,
+            "name": "Miron",
+            "startTime": 1784422800,
+            "setLength": 30,
             "logoId": 2,
-            "genre": "",
-            "VJ": "",
-            "LD": "Kat Food",
-            "FX": ""
+            "genre": "Czech Neuro",
+            "VJ": "Pammematth",
+            "LD": "FlyingDrægon",
+            "FX": "FlyingDrægon"
         },
         {
-            "name": "The Misfit Queen",
-            "startTime": 1783810800,
-            "setLength": 60,
+            "name": "NOx",
+            "startTime": 1784424600,
+            "setLength": 30,
             "logoId": 3,
-            "genre": "",
-            "VJ": "",
-            "LD": "Kat Food",
-            "FX": ""
+            "genre": "Cyber Neuro",
+            "VJ": "Captivated",
+            "LD": "KintsugiTiger",
+            "FX": "KintsugiTiger"
         },
         {
-            "name": "Studi01",
-            "startTime": 1783814400,
+            "name": "Andurrz",
+            "startTime": 1784426400,
             "setLength": 30,
             "logoId": 4,
-            "genre": "",
-            "VJ": "",
-            "LD": "Kat Food",
-            "FX": ""
+            "genre": "Bouncy Trance & Techno",
+            "VJ": "Copperlilly",
+            "LD": "Velocity",
+            "FX": "Velocity"
         },
         {
-            "name": "WarneD1",
-            "startTime": 1783816200,
+            "name": "ECLIPSA",
+            "startTime": 1784428200,
             "setLength": 30,
-            "logoId": 7,
-            "genre": "",
-            "VJ": "",
-            "LD": "Kat Food",
-            "FX": ""
+            "logoId": 5,
+            "genre": "Uplifting Neuro",
+            "VJ": "Copperlilly",
+            "LD": "FlyingDrægon",
+            "FX": "FlyingDrægon"
         },
         {
-            "name": "WhenSnakesSing",
-            "startTime": 1783818000,
-            "setLength": 60,
-            "logoId": 5,
-            "genre": "",
+            "name": "Something extra???",
+            "startTime": 1784430000,
+            "setLength": 30,
+            "logoId": 6,
+            "genre": "???",
             "VJ": "",
-            "LD": "Kat Food",
+            "LD": "",
             "FX": ""
         },
         {
             "name": "Close",
-            "startTime": 1783821600,
+            "startTime": 1784431800,
             "setLength": 5,
-            "logoId": 6,
+            "logoId": 7,
             "genre": "",
             "VJ": "",
             "LD": "",
