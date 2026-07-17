@@ -1,8 +1,8 @@
 {
     "messages": {
-        "pre": "Birthday in July? Come drop by and chill! The event begins",
+        "pre": "Join us, to celebrate July Birthdays! \nHosted by Treble Sketch. The event begins",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Thanks for celebrating with us!\nJoin the official Stage Flight group at Spawn Island for official events in this world!",
+        "post": "Thanks for celebrating with us!\nFly safe!",
         "logo": true,
         "hasLomg": false,
         "lomgTileSize": "0.3333",
@@ -36,7 +36,7 @@
             "genre": "Dancefloor DnB",
             "VJ": "Pammematth",
             "LD": "Velocity",
-            "FX": ""
+            "FX": "Velocity"
         },
         {
             "name": "Miron",
@@ -54,7 +54,7 @@
             "setLength": 30,
             "logoId": 3,
             "genre": "Cyber Neuro",
-            "VJ": "ElectronFlow",
+            "VJ": "Captivated",
             "LD": "KintsugiTiger",
             "FX": "KintsugiTiger"
         },
@@ -66,7 +66,7 @@
             "genre": "Bouncy Trance & Techno",
             "VJ": "Copperlilly",
             "LD": "Velocity",
-            "FX": ""
+            "FX": "Velocity"
         },
         {
             "name": "ECLIPSA",
