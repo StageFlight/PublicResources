@@ -14,7 +14,7 @@
     "displayActive": [
         {
             "start": 1784418600,
-            "finish": 1784431800
+            "finish": 1784432520
         }
     ],
     "performers": [
@@ -60,7 +60,7 @@
         },
         {
             "name": "Andurrz",
-            "startTime": 1784426400,
+            "startTime": 1784426820,
             "setLength": 30,
             "logoId": 4,
             "genre": "Bouncy Trance & Techno",
@@ -70,7 +70,7 @@
         },
         {
             "name": "ECLIPSA",
-            "startTime": 1784428200,
+            "startTime": 1784428620,
             "setLength": 30,
             "logoId": 5,
             "genre": "Uplifting Neuro",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Something extra???",
-            "startTime": 1784430000,
+            "startTime": 1784430420,
             "setLength": 30,
             "logoId": 6,
             "genre": "???",
@@ -90,7 +90,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1784431800,
+            "startTime": 1784432220,
             "setLength": 5,
             "logoId": 7,
             "genre": "",
