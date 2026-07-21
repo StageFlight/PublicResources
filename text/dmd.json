@@ -3,12 +3,12 @@
         "pre": "Join us, to celebrate July Birthdays! \nHosted by Treble Sketch. The event begins",
         "inter": "This message is displayed between active days, if we ran on multiple days.",
         "post": "Thanks for celebrating with us!\nFly safe!",
-        "logo": true,
+        "logo": false,
         "hasLomg": false,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
-        "tagline": "July Birthday Bash!",
+        "tagline": "DANCE TOGETHER, FLY TOGETHER",
         "logoCacheVersion": 1
     },
     "displayActive": [
