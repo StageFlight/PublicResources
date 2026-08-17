@@ -1,99 +1,107 @@
 {
     "messages": {
-        "pre": "Join us, to celebrate July Birthdays! \nHosted by Treble Sketch. The event begins",
-        "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Thanks for celebrating with us!\nFly safe!",
-        "logo": true,
+        "pre": "The gathering of the packs will begin at",
+        "inter": "",
+        "post": "Thank you for visiting!\nSoar high, and fly safe!",
+        "logo": false,
         "hasLomg": false,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
-        "tagline": "July Birthday Bash!",
+        "tagline": "DANCE TOGETHER, FLY TOGETHER",
         "logoCacheVersion": 1
     },
     "displayActive": [
         {
-            "start": 1784418600,
-            "finish": 1784431800
+            "start": 1786941751,
+            "finish": 1788055500
         }
     ],
     "performers": [
         {
-            "name": "ElectronFlow",
-            "startTime": 1784419200,
+            "name": "Jere",
+            "startTime": 1788030000,
             "setLength": 30,
             "logoId": 0,
-            "genre": "Organic House",
-            "VJ": "ElectronFlow",
-            "LD": "KintsugiTiger",
-            "FX": "KintsugiTiger"
+            "genre": "Uplifting Trance",
+            "credits": "<Credits Here>",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "ThyCorgiKing",
-            "startTime": 1784421000,
+            "name": "Dax",
+            "startTime": 1788033600,
             "setLength": 30,
             "logoId": 1,
-            "genre": "Dancefloor DnB",
-            "VJ": "Pammematth",
-            "LD": "Velocity",
-            "FX": "Velocity"
+            "genre": "Hard Techno / Hardstyle",
+            "credits": "<Credits Here>",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "Miron",
-            "startTime": 1784422800,
+            "name": "Arktis",
+            "startTime": 1788037200,
             "setLength": 30,
             "logoId": 2,
-            "genre": "Czech Neuro",
-            "VJ": "Pammematth",
-            "LD": "FlyingDrægon",
-            "FX": "FlyingDrægon"
+            "genre": "Bass House / UK Garage",
+            "credits": "<Credits Here>",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "NOx",
-            "startTime": 1784424600,
+            "name": "HMage",
+            "startTime": 1788040800,
             "setLength": 30,
             "logoId": 3,
-            "genre": "Cyber Neuro",
-            "VJ": "Captivated",
-            "LD": "KintsugiTiger",
-            "FX": "KintsugiTiger"
+            "genre": "Progressive Trance",
+            "credits": "<Credits Here>",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "Andurrz",
-            "startTime": 1784426400,
+            "name": "Wildfeather",
+            "startTime": 1788044400,
             "setLength": 30,
             "logoId": 4,
-            "genre": "Bouncy Trance & Techno",
-            "VJ": "Copperlilly",
-            "LD": "Velocity",
-            "FX": "Velocity"
+            "genre": "Drum and Bass",
+            "credits": "<Credits Here>",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "ECLIPSA",
-            "startTime": 1784428200,
+            "name": "Northstar",
+            "startTime": 1788048000,
             "setLength": 30,
             "logoId": 5,
-            "genre": "Uplifting Neuro",
-            "VJ": "Copperlilly",
-            "LD": "FlyingDrægon",
-            "FX": "FlyingDrægon"
+            "genre": "Multi-Genre",
+            "credits": "<Credits Here>",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
-            "name": "Something extra???",
-            "startTime": 1784430000,
+            "name": "Lau",
+            "startTime": 1788051600,
             "setLength": 30,
             "logoId": 6,
-            "genre": "???",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "genre": "Liquid Drum and Bass",
+            "credits": "<Credits Here>",
+            "VJ": "???",
+            "LD": "???",
+            "FX": "???"
         },
         {
             "name": "Close",
-            "startTime": 1784431800,
+            "startTime": 1788055200,
             "setLength": 5,
             "logoId": 7,
             "genre": "",
+            "credits": "",
             "VJ": "",
             "LD": "",
             "FX": ""
