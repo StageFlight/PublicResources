@@ -13,8 +13,8 @@
     },
     "displayActive": [
         {
-            "start": 1787274720,
-            "finish": 1787275440
+            "start": 1787275920,
+            "finish": 1787276820
         }
     ],
     "performers": [
@@ -75,7 +75,7 @@
         },
         {
             "name": "Northstar",
-            "startTime": 1787274900,
+            "startTime": 1787276100,
             "setLength": 5,
             "logoId": 3,
             "genre": "Multi-Genre",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Lau",
-            "startTime": 1787275200,
+            "startTime": 1787276400,
             "setLength": 5,
             "logoId": 1,
             "genre": "Liquid Drum and Bass",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1787275500,
+            "startTime": 1787276700,
             "setLength": 5,
             "logoId": 7,
             "genre": "",
