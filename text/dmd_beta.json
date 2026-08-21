@@ -20,8 +20,8 @@
     "performers": [
         {
             "name": "Jere",
-            "startTime": 1788030000,
-            "setLength": 30,
+            "startTime": 1787272020,
+            "setLength": 3,
             "logoId": 2,
             "genre": "Uplifting Trance",
             "credits": "<Credits Here>",
@@ -31,8 +31,8 @@
         },
         {
             "name": "Dax",
-            "startTime": 1788033600,
-            "setLength": 30,
+            "startTime": 1787272200,
+            "setLength": 5,
             "logoId": 4,
             "genre": "Hard Techno / Hardstyle",
             "credits": "<Credits Here>",
@@ -42,8 +42,8 @@
         },
         {
             "name": "Arktis",
-            "startTime": 1788037200,
-            "setLength": 30,
+            "startTime": 1787272500,
+            "setLength": 5,
             "logoId": 6,
             "genre": "Bass House / UK Garage",
             "credits": "<Credits Here>",
@@ -53,8 +53,8 @@
         },
         {
             "name": "HMage",
-            "startTime": 1788040800,
-            "setLength": 30,
+            "startTime": 1787272800,
+            "setLength": 5,
             "logoId": 0,
             "genre": "Progressive Trance",
             "credits": "<Credits Here>",
@@ -64,8 +64,8 @@
         },
         {
             "name": "Wildfeather",
-            "startTime": 1788044400,
-            "setLength": 30,
+            "startTime": 1787273100,
+            "setLength": 5,
             "logoId": 5,
             "genre": "Drum and Bass",
             "credits": "<Credits Here>",
@@ -75,8 +75,8 @@
         },
         {
             "name": "Northstar",
-            "startTime": 1788048000,
-            "setLength": 30,
+            "startTime": 1787273400,
+            "setLength": 5,
             "logoId": 3,
             "genre": "Multi-Genre",
             "credits": "<Credits Here>",
@@ -86,8 +86,8 @@
         },
         {
             "name": "Lau",
-            "startTime": 1788051600,
-            "setLength": 30,
+            "startTime": 1787273700,
+            "setLength": 5,
             "logoId": 1,
             "genre": "Liquid Drum and Bass",
             "credits": "<Credits Here>",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1788055200,
+            "startTime": 1787274000,
             "setLength": 5,
             "logoId": 7,
             "genre": "",
