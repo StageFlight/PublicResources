@@ -13,26 +13,26 @@
     },
     "displayActive": [
         {
-            "start": 1787275920,
-            "finish": 1787276820
+            "start": 1787588668,
+            "finish": 1788055500
         }
     ],
     "performers": [
         {
             "name": "Jere",
-            "startTime": 1787272020,
-            "setLength": 3,
+            "startTime": 1788030000,
+            "setLength": 60,
             "logoId": 2,
             "genre": "Uplifting Trance",
-            "credits": "<Credits Here>",
+            "credits": "Stage Team: Treble Sketch, Jere, Thistle, Goggs, Kuropper, Drægon 飛龍, Beanthing, Windyote, All_Night\nActors: V8Addict, Thistle, Jere, Treble Sketch",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
         },
         {
             "name": "Dax",
-            "startTime": 1787272200,
-            "setLength": 5,
+            "startTime": 1788033600,
+            "setLength": 60,
             "logoId": 4,
             "genre": "Hard Techno / Hardstyle",
             "credits": "<Credits Here>",
@@ -42,62 +42,62 @@
         },
         {
             "name": "Arktis",
-            "startTime": 1787272500,
-            "setLength": 5,
+            "startTime": 1788037200,
+            "setLength": 60,
             "logoId": 6,
             "genre": "Bass House / UK Garage",
-            "credits": "<Credits Here>",
+            "credits": "Johari, Mitsuaky, Shambler, MitchSirco",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
         },
         {
             "name": "HMage",
-            "startTime": 1787272800,
-            "setLength": 5,
+            "startTime": 1788040800,
+            "setLength": 60,
             "logoId": 0,
             "genre": "Progressive Trance",
-            "credits": "<Credits Here>",
+            "credits": "PammeMatth, Zeimyth, Raeschen, Windyote",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
         },
         {
             "name": "Wildfeather",
-            "startTime": 1787273100,
-            "setLength": 5,
+            "startTime": 1788044400,
+            "setLength": 60,
             "logoId": 5,
             "genre": "Drum and Bass",
-            "credits": "<Credits Here>",
+            "credits": "MitchSirco, Atri, Oddy, PammeMatth, Windyote, Beanthing, Wood, Kazy",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
         },
         {
-            "name": "Northstar",
-            "startTime": 1787276100,
-            "setLength": 5,
+            "name": "northstar",
+            "startTime": 1788048000,
+            "setLength": 60,
             "logoId": 3,
             "genre": "Multi-Genre",
-            "credits": "<Credits Here>",
+            "credits": "Stage Team: ValueFactory, Rowan, Raeschen, Drægon 飛龍, Kat Food, Windyote, PammeMatth, MitchSirco, Copperlilly\nMovie Directors: Shrooky, Frosty\nSpecial Thanks: Rohly, Manik/Fish\nHyperpop Extras and Special Thanks: Lau, Kiki, Rohly, Whisper/Hobnoxus, Dax, Silverplushie\nHyperpop Shoutouts: Asher, Phant0m, Bedmonster, RedSage, Frosty, HMage, Mance, pulse!, Beed, Coby, Spine, SapphicAwoo, Rey Sunset, Happyrobot33, Wey, Rain, Sasithya, InkBlitz, Vendryk, Zeek, Rega, Kenko, Dodid, Korvyn, Xanthropod, Windy, MitchSirco\nColorbass Extras and Shoutouts: Gab, Frosty, Szop, Jayson, rKive",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
         },
         {
             "name": "Lau",
-            "startTime": 1787276400,
-            "setLength": 5,
+            "startTime": 1788051600,
+            "setLength": 60,
             "logoId": 1,
             "genre": "Liquid Drum and Bass",
-            "credits": "<Credits Here>",
+            "credits": "Frosty, Zeimyth, Rowan, Drægon 飛龍, Windyote, Beanthing, Ash Darkfire, Eflam, Nullreff, Torvid",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
         },
         {
             "name": "Close",
-            "startTime": 1787276700,
+            "startTime": 1788055200,
             "setLength": 5,
             "logoId": 7,
             "genre": "",
