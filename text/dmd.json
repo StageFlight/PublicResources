@@ -1,8 +1,8 @@
 {
     "messages": {
-        "pre": "Join us, to celebrate July Birthdays! \nHosted by Treble Sketch. The event begins",
-        "inter": "This message is displayed between active days, if we ran on multiple days.",
-        "post": "Thanks for celebrating with us!\nFly safe!",
+        "pre": "The gathering of the packs will begin at",
+        "inter": "",
+        "post": "Thank you for visiting!\nSoar high, and fly safe!",
         "logo": false,
         "hasLomg": false,
         "lomgTileSize": "0.3333",
@@ -13,8 +13,8 @@
     },
     "displayActive": [
         {
-            "start": 1784418600,
-            "finish": 1784432520
+            "start": 1788029400,
+            "finish": 1788055800
         }
     ],
     "performers": [
@@ -98,7 +98,7 @@
         {
             "name": "Close",
             "startTime": 1788055200,
-            "setLength": 5,
+            "setLength": 10,
             "logoId": 7,
             "genre": "",
             "credits": "",
