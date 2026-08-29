@@ -14,7 +14,7 @@
     "displayActive": [
         {
             "start": 1788029400,
-            "finish": 1788055740
+            "finish": 1788055920
         }
     ],
     "performers": [
@@ -31,7 +31,7 @@
         },
         {
             "name": "Dax",
-            "startTime": 1788033600,
+            "startTime": 1788033804,
             "setLength": 61,
             "logoId": 4,
             "genre": "Hard Techno / Hardstyle",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Arktis",
-            "startTime": 1788037260,
+            "startTime": 1788037440,
             "setLength": 59,
             "logoId": 6,
             "genre": "Bass House / UK Garage",
@@ -53,7 +53,7 @@
         },
         {
             "name": "HMage",
-            "startTime": 1788040800,
+            "startTime": 1788040980,
             "setLength": 59,
             "logoId": 0,
             "genre": "Progressive Trance",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Wildfeather",
-            "startTime": 1788044340,
+            "startTime": 1788044520,
             "setLength": 60,
             "logoId": 5,
             "genre": "Drum and Bass",
@@ -75,7 +75,7 @@
         },
         {
             "name": "northstar",
-            "startTime": 1788048000,
+            "startTime": 1788048180,
             "setLength": 58,
             "logoId": 3,
             "genre": "Multi-Genre",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Lau",
-            "startTime": 1788051540,
+            "startTime": 1788051720,
             "setLength": 63,
             "logoId": 1,
             "genre": "Liquid Drum and Bass",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1788055260,
+            "startTime": 1788055440,
             "setLength": 8,
             "logoId": 7,
             "genre": "",
