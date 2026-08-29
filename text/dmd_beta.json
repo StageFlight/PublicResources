@@ -24,7 +24,7 @@
             "setLength": 60,
             "logoId": 2,
             "genre": "Uplifting Trance",
-            "credits": "Stage Team: Treble Sketch, Jere, Thistle, Goggs, Kuropper, Drægon 飛龍, Beanthing, Windyote, All_Night\nActors: V8Addict, Thistle, Jere, Treble Sketch",
+            "credits": "Stage Team: Treble Sketch, Jere, Thistle, Goggs, Kuropper, Beanthing, Windyote, Happyrobot33, All_Night, ValueFactory\nActors: V8Addict, Thistle, Jere, Treble Sketch, LemonadeLyric, Das Right, DrKirth, Squeegy7, Feffy~, VinceBorzoi, Stacker_,\nSpecial Thanks: Cynra, Frosty",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
@@ -35,7 +35,7 @@
             "setLength": 60,
             "logoId": 4,
             "genre": "Hard Techno / Hardstyle",
-            "credits": "<Credits Here>",
+            "credits": "Stage Team: Happyrobot33, Drægon 飛龍, JerryTheBerry, Korvyn, Thistle, Shrooky, Curious Geck, Dax\nActors: Dax, Connie, Coby, Polaris\nSpecial Thanks: HMage, Atri, Polaris Apsis, Jere, Happyrobot33, RohirrimRowan, Connie_Camille, AussieDax, Lubbi, CrysHybrid, Scriptman, Coby AiluroVali, Daxan, Curious Geck, ThistleBunny, Webserfer",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
@@ -46,7 +46,7 @@
             "setLength": 60,
             "logoId": 6,
             "genre": "Bass House / UK Garage",
-            "credits": "Johari, Mitsuaky, Shambler, MitchSirco",
+            "credits": "Stage Team: Johari, Mitsuaky, Shambler, MitchSirco,\nSpecial Thanks: DônovanCarmona",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
@@ -57,7 +57,7 @@
             "setLength": 60,
             "logoId": 0,
             "genre": "Progressive Trance",
-            "credits": "PammeMatth, Zeimyth, Raeschen, Windyote",
+            "credits": "Stage Team: Literally Marty, PammeMatth, Zeimyth, Raeschen, Windyote & HMage",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
@@ -68,7 +68,7 @@
             "setLength": 60,
             "logoId": 5,
             "genre": "Drum and Bass",
-            "credits": "MitchSirco, Atri, Oddy, PammeMatth, Windyote, Beanthing, Wood, Kazy",
+            "credits": "Stage Team: MitchSirco, Atri, Oddy, PammeMatth, VileVisual, Wood, Kazy\nSpecial Thanks: Happyrobot33, Windyote, Beanthing",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
@@ -79,18 +79,18 @@
             "setLength": 60,
             "logoId": 3,
             "genre": "Multi-Genre",
-            "credits": "Stage Team: ValueFactory, Rowan, Raeschen, Drægon 飛龍, Kat Food, Windyote, PammeMatth, MitchSirco, Copperlilly\nMovie Directors: Shrooky, Frosty\nSpecial Thanks: Rohly, Manik/Fish\nHyperpop Extras and Special Thanks: Lau, Kiki, Rohly, Whisper/Hobnoxus, Dax, Silverplushie\nHyperpop Shoutouts: Asher, Phant0m, Bedmonster, RedSage, Frosty, HMage, Mance, pulse!, Beed, Coby, Spine, SapphicAwoo, Rey Sunset, Happyrobot33, Wey, Rain, Sasithya, InkBlitz, Vendryk, Zeek, Rega, Kenko, Dodid, Korvyn, Xanthropod, Windy, MitchSirco\nColorbass Extras and Shoutouts: Gab, Frosty, Szop, Jayson, rKive",
+            "credits": "Audio: Polaris Apsis & ValueFactory\nStage Team: ValueFactory, Rowan, Raeschen, Drægon 飛龍, Kat Food, Windyote, PammeMatth, MitchSirco, Kotovsky\nPoplife Skit: ValueFactory, Polaris Apsis, novatosh, ValueFactory\nHyperpop Skit: Shrooky, Kiki, Rohly, Whisper/Hobnoxus, Dax, Silverplushie\nColorbass Skit: Gab Jankums, Frosty, Polaris Apsis, reidoggy, Frosty, What The PUP!, rKive, fxSzop, Phaent0m, teybob, Coby AiluroVali, Nerhri, Drægon 飛龍, Winterstines, Inkblitz, phyrebird, Zulie~, Korvyn, Riimri, Zippy236, Mikish, void Kandra, mance1462, Kiki, Ekkosangen, PolarBearKyra, SapphicAwoo, Stripe, Treble Sketch\nSpecial Thanks: Rohly, ManikManokit/Fish, Silverplushie, Whisper/Hobnoxus, AussieDax, Kiki\nShoutouts: Asher, Phant0m, Bedmonster, RedSage, Frosty, HMage, Mance, pulse!, Beed, Coby, Spine, SapphicAwoo, Rey Sunset, Happyrobot33, Wey, Rain, Sasithya, InkBlitz, Vendryk, Zeek, Rega, Kenko, Dodid, Korvyn, Xanthropod, Windy, MitchSirco, Rowan, Lau",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
         },
         {
-            "name": "Lau",
+            "name": "LAU",
             "startTime": 1788051600,
             "setLength": 60,
             "logoId": 1,
             "genre": "Liquid Drum and Bass",
-            "credits": "Frosty, Zeimyth, Rowan, Drægon 飛龍, Windyote, Beanthing, Ash Darkfire, Eflam, Nullreff, Torvid",
+            "credits": "Stage Team: Frosty, Zeimyth, Rowan, Drægon 飛龍, Windyote, Beanthing, Happyrobot33, Ash Darkfire, Eflam, Nullreff, MitchSirco, Torvid",
             "VJ": "???",
             "LD": "???",
             "FX": "???"
