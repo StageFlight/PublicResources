@@ -14,7 +14,7 @@
     "displayActive": [
         {
             "start": 1788029400,
-            "finish": 1788056280
+            "finish": 1788056520
         }
     ],
     "performers": [
@@ -86,7 +86,7 @@
         },
         {
             "name": "Lau",
-            "startTime": 1788052020,
+            "startTime": 1788052337,
             "setLength": 63,
             "logoId": 1,
             "genre": "Liquid Drum and Bass",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Close",
-            "startTime": 1788055800,
+            "startTime": 1788056040,
             "setLength": 8,
             "logoId": 7,
             "genre": "",
