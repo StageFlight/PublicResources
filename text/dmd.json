@@ -1,110 +1,62 @@
 {
     "messages": {
-        "pre": "The gathering of the packs will begin at",
+        "pre": "Welcome Creatures! The event begins at",
         "inter": "",
         "post": "Thank you for visiting!\nSoar high, and fly safe!",
-        "logo": false,
+        "logo": true,
         "hasLomg": false,
         "lomgTileSize": "0.3333",
         "lomgLogosPerRow": 3,
         "title": "DJ SCHEDULE",
-        "tagline": "DANCE TOGETHER, FLY TOGETHER",
+        "tagline": "Kitty Bash",
         "logoCacheVersion": 1
     },
     "displayActive": [
         {
-            "start": 1788029400,
-            "finish": 1788056520
+            "start": 1789602600,
+            "finish": 1789613700
         }
     ],
     "performers": [
         {
-            "name": "Jere",
-            "startTime": 1788030000,
-            "setLength": 59,
-            "logoId": 2,
-            "genre": "Uplifting Trance",
-            "credits": "Stage Team: Treble Sketch, Jere, Thistle, Goggs, Kuropper, Beanthing, Windyote, Happyrobot33, All_Night, ValueFactory\nActors: V8Addict, Thistle, Jere, Treble Sketch, LemonadeLyric, Das Right, DrKirth, Squeegy7, Feffy~, VinceBorzoi & Stacker_\nSpecial Thanks: Cynra & Frosty",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
-        },
-        {
-            "name": "Dax",
-            "startTime": 1788033804,
-            "setLength": 61,
-            "logoId": 4,
-            "genre": "Hard Techno / Hardstyle",
-            "credits": "Stage Team: Happyrobot33, Drægon 飛龍, JerryTheBerry, Korvyn, Thistle, Shrooky, Curious Geck & Dax\nActors: Dax, Connie, Coby & Polaris\nSpecial Thanks: HMage, Atri, Polaris Apsis, Jere, Happyrobot33, RohirrimRowan, Connie_Camille, AussieDax, Lubbi, CrysHybrid, Scriptman, Coby AiluroVali, Daxan, Curious Geck, ThistleBunny & Webserfer",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
-        },
-        {
-            "name": "Arktis",
-            "startTime": 1788037440,
-            "setLength": 59,
-            "logoId": 6,
-            "genre": "Bass House / UK Garage",
-            "credits": "Stage Team: Johari, Mitsuaky, Shambler & MitchSirco\nSpecial Thanks: DônovanCarmona",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
-        },
-        {
-            "name": "HMage",
-            "startTime": 1788041220,
-            "setLength": 59,
+            "name": "Milo",
+            "startTime": 1789603200,
+            "setLength": 30,
             "logoId": 0,
-            "genre": "Progressive Trance",
-            "credits": "Stage Team: Literally Marty, PammeMatth, Zeimyth, Raeschen, Windyote & HMage",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
-        },
-        {
-            "name": "Wildfeather",
-            "startTime": 1788044820,
-            "setLength": 60,
-            "logoId": 5,
-            "genre": "Drum and Bass",
-            "credits": "Stage Team: MitchSirco, Atri, Oddy, PammeMatth, VileVisual, Wood & Kazy\nSpecial Thanks: Happyrobot33, Windyote & Beanthing",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
-        },
-        {
-            "name": "northstar",
-            "startTime": 1788048480,
-            "setLength": 58,
-            "logoId": 3,
             "genre": "Multi-Genre",
-            "credits": "Audio: Polaris Apsis & ValueFactory\nStage Team: ValueFactory, Rowan, Raeschen, Drægon 飛龍, Kat Food, Windyote, PammeMatth, MitchSirco & Kotovsky\nPoplife Skit: ValueFactory, Polaris Apsis, novatosh & ValueFactory\nHyperpop Skit: Shrooky, Kiki, Rohly, Whisper/Hobnoxus, Dax & Silverplushie\nColorbass Skit: Gab Jankums, Frosty, Polaris Apsis, reidoggy, Frosty, What The PUP!, rKive, fxSzop, Phaent0m, teybob, Coby AiluroVali, Nerhri, Drægon 飛龍, Winterstines, Inkblitz, phyrebird, Zulie~, Korvyn, Riimri, Zippy236, Mikish, void Kandra, mance1462, Kiki, Ekkosangen, PolarBearKyra, SapphicAwoo, Stripe & Treble Sketch\nSpecial Thanks: Rohly, ManikManokit/Fish, Silverplushie, Whisper/Hobnoxus, AussieDax & Kiki\nShoutouts: Asher, Phant0m, Bedmonster, RedSage, Frosty, HMage, Mance, pulse!, Beed, Coby, Spine, SapphicAwoo, Rey Sunset, Happyrobot33, Wey, Rain, Sasithya, InkBlitz, Vendryk, Zeek, Rega, Kenko, Dodid, Korvyn, Xanthropod, Windy, MitchSirco, Rowan & Lau",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "credits": "Lighting & all visuals: Milo"
         },
         {
-            "name": "Lau",
-            "startTime": 1788052337,
-            "setLength": 63,
+            "name": "ValueFactory",
+            "startTime": 1789605000,
+            "setLength": 60,
+            "logoId": 2,
+            "genre": "Drum and Bass - Club Nothing Replay",
+            "credits": "Original Mix: ValueFactory\nLighting: Milo"
+        },
+        {
+            "name": "Moonglow",
+            "startTime": 1789608600,
+            "setLength": 60,
             "logoId": 1,
-            "genre": "Liquid Drum and Bass",
-            "credits": "Stage Team: Frosty, Zeimyth, Rowan, Drægon 飛龍, Windyote, Beanthing, Happyrobot33, Ash Darkfire, Eflam, Nullreff, MitchSirco & Torvid",
-            "VJ": "???",
-            "LD": "???",
-            "FX": "???"
+            "genre": "Atmospheric & Moonglow - SF 3.14 Replay",
+            "credits": "DJ, Visuals, Producer & Post-Production: Frosty\nLighting: Micca, Talos, BoxerFox & nullreff\nVisuals: Micca, Johari, Gab, ValueFactory & nullreff\nFX: ValueFactory, nullreff, Happyrobot33, Windyote & Raeschen\nVideo Production: Gab"
+        },
+        {
+            "name": "Windworks",
+            "startTime": 1789612200,
+            "setLength": 20,
+            "logoId": 6,
+            "genre": "Fireworks & Drone Show - SF 3 Replay",
+            "credits": "Stage Team: Windyote, Happyrobot33, Rowan & Talos\nMusic mix: ValueFactory"
         },
         {
             "name": "Close",
-            "startTime": 1788056040,
-            "setLength": 8,
+            "startTime": 1789613400,
+            "setLength": 5,
             "logoId": 7,
             "genre": "",
-            "credits": "",
-            "VJ": "",
-            "LD": "",
-            "FX": ""
+            "credits": ""
         }
     ]
 }
